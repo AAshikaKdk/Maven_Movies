@@ -1,4 +1,4 @@
-#1. list of all staff members with their first name, last name, emial-addresses and store where they work
+#1. list of all staff members with their first name, last name, emaill-addresses and store where they work
 
 SELECT
 	first_name,
@@ -23,7 +23,7 @@ SELECT
  GROUP BY store_id
  
  
- #Count of all customer's email to avoid data breach
+ #4. Count of all customer's email to avoid data breach
  SELECT distinct
 	 count(email) as total_number_of_email
  FROM customer
