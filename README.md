@@ -1,7 +1,7 @@
 # Maven_Movies
 Showcase of SQL queries
 
-In this project I have showed case my queries for single table and mutiple tables skills. The database contains 16 related tables, conataining information about - cutomers, business, and inventory.
+In this project I have showcased my queries for single table and mutiple tables skills. The database contains 16 related tables, conataining information about - cutomers, business, and inventory.
 
 
 Furthermore,  I have implemented queries for frequently asked questions that are commonly encountered in data analyst roles within companies.
